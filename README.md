@@ -1,6 +1,5 @@
 
-[![Ch0pins's github stats](https://github-readme-stats.vercel.app/api?username=Ch0pin&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ch0pins's github stats](https://github-readme-stats.vercel.app/api?username=Ch0pin&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - [LinkedIn](https://www.linkedin.com/in/valsamaras/)
 - [Twitter](https://twitter.com/Ch0pin)
